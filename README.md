@@ -15,4 +15,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
 
 <h3 align="left">Insignias ONE - Oracle Next Education:</h3>
-<p>![cms_files_10224_1644515319BADGE_2](https://user-images.githubusercontent.com/92610528/177021009-5bb09e0b-9106-49a7-8d31-52e32a88929b.png)</p>
+
+<p><img src="https://user-images.githubusercontent.com/92610528/177022204-375c21ef-35ab-42ff-a33a-5be5b054747c.png" alt="encriptador" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/92610528/177022367-f67443ec-be05-49aa-9b82-455da45bfb1d.png" alt="juegoahorcado" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/92610528/177022383-095d8a99-0c9c-4164-8d0b-ad5c869755d4.png" alt="portfolio" width="80" height="80"/></p>
+
+
+
+
