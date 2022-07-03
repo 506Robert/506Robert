@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Gutierrez</h1>
-<h3 align="center">A passionate frontend developer from Costa Rica</h3>
+<h3 align="center">A passionate frontend developer Jr. from Costa Rica</h3>
 
 - 🌱 I’m currently learning **JS, jQuery, Angular, NodeJS**
 
